@@ -1,0 +1,10 @@
+{Type}: {제목}
+
+Done
++ {작업 내용}
++ {작업 내용}
+
+
+Test: N/A
+Resolved: N/A 혹은 {Jira 이슈 번호}
+Related: N/A 혹은 {Jira 이슈 번호}
